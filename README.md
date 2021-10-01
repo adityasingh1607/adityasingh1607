@@ -40,22 +40,19 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="40" width="80" src="./assets/c.svg"></code>
 <code><img height="40" width="80" src="./assets/cpp.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 
 <code><img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+
 
 <code><img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 
-<code><img height="40" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-ar21.svg"></code>
+
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img height="40" width="80" src="./assets/markdown.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
