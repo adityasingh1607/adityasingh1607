@@ -20,6 +20,18 @@
 
 <br>
 
+## 🗄️ Awesome Projects!
+
+<a href="https://github.com/adityasingh2509/mr-funnyBot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityasingh2509&repo=mr-funnyBot&theme=radical&show_icons=true" />
+</a>
+
+<a href="https://github.com/adityasingh2509/mini-projects">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityasingh2509&repo=mini-projects&theme=radical&show_icons=true" />
+</a>
+
+<br><br>
+
 ## 🛠  Tech Stack
 
 <img alt="Night Coding" src="/assets/gif-asset.gif" align="right" height="250px"/>
